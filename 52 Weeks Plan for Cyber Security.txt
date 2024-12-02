@@ -1,0 +1,123 @@
+###	52 Weeks Plan for Cyber Security	###
+
+Phase 1: Foundations (Weeks 1–12)
+Goal: Build a strong understanding of the basics of IT, networking, and security.
+
+Week 1-2: Learn the Basics of Computer Systems
+
+Study how operating systems work (focus on Linux and Windows).
+Understand file systems, processes, and basic commands.
+Resources:
+"The Linux Command Line" by William Shotts.
+Windows IT Pro documentation.
+Week 3-4: Networking Fundamentals
+
+Learn about TCP/IP, DNS, DHCP, HTTP/S, NAT, and VPNs.
+Study how data flows through networks.
+Hands-on: Use tools like Wireshark to analyze traffic.
+Resources:
+"Computer Networking: A Top-Down Approach" by Kurose and Ross.
+Week 5-6: Intro to Cybersecurity
+
+Study the CIA triad (Confidentiality, Integrity, Availability).
+Learn common attack vectors (phishing, malware, etc.).
+Explore cybersecurity terminologies and frameworks.
+Platform: Cybersecurity 101 courses on platforms like Coursera, edX, or TryHackMe.
+Week 7-8: Operating Systems Security Basics
+
+Learn about user accounts, permissions, and file protections.
+Set up a secure Linux (Kali Linux) environment.
+Practice managing processes and services securely.
+Week 9-10: Network Security Basics
+
+Study firewalls, IDS/IPS, and basic packet filtering.
+Set up and configure a simple pfSense firewall (you’ve already started).
+Hands-on: Monitor traffic and create rules.
+Week 11-12: Cyber Threats and Malware Basics
+
+Study malware types (viruses, worms, Trojans, ransomware).
+Understand how attackers exploit vulnerabilities.
+Practice malware analysis in a virtual environment.
+Phase 2: Intermediate Skills (Weeks 13–24)
+Goal: Start specializing in key cybersecurity skills.
+
+Week 13-14: System Administration & Hardening
+
+Learn system administration on Linux and Windows.
+Study and practice system hardening techniques (secure boot, SSH keys, UAC).
+Week 15-16: Penetration Testing Basics
+
+Learn about penetration testing methodologies (OWASP, PTES).
+Use tools like Nmap, Metasploit, and Burp Suite.
+Platform: Start TryHackMe’s Complete Beginner Path.
+Week 17-18: Secure Web Applications
+
+Study common vulnerabilities (OWASP Top 10: SQLi, XSS, CSRF).
+Practice web application security testing on labs like DVWA or WebGoat.
+Week 19-20: Cryptography Basics
+
+Learn encryption and hashing algorithms (AES, RSA, SHA, etc.).
+Study how PKI and SSL/TLS work.
+Hands-on: Encrypt files using OpenSSL and verify integrity with hashing.
+Week 21-22: Incident Response and Forensics Basics
+
+Study incident response phases and methodologies.
+Practice file recovery, log analysis, and memory forensics.
+Tools: FTK Imager, Autopsy, Volatility.
+Week 23-24: Wireless Security
+
+Study Wi-Fi encryption (WPA2, WPA3) and attacks (Evil Twin, WPA cracking).
+Practice attacking and securing wireless networks using tools like Aircrack-ng.
+Phase 3: Advanced Skills (Weeks 25–36)
+Goal: Master advanced concepts and tools.
+
+Week 25-26: Advanced Networking and Security
+
+Study VPNs, proxies, and advanced routing concepts.
+Configure and analyze complex firewall setups.
+Week 27-28: Advanced Penetration Testing
+
+Practice exploiting vulnerabilities on platforms like Hack The Box.
+Learn privilege escalation techniques on Linux and Windows.
+Week 29-30: Reverse Engineering
+
+Learn assembly language basics.
+Practice reverse engineering binaries using Ghidra or IDA Free.
+Week 31-32: Exploit Development
+
+Learn how to write exploits (buffer overflow, format string attacks).
+Study concepts from books like "Hacking: The Art of Exploitation" by Jon Erickson.
+Week 33-34: Cloud Security
+
+Study cloud security fundamentals (AWS, Azure, GCP).
+Learn about IAM, cloud-specific threats, and configurations.
+Hands-on: Use cloud environments to implement security measures.
+Week 35-36: SIEM and SOC Operations
+
+Learn about SIEM tools like Splunk, ELK Stack, or QRadar.
+Simulate monitoring and incident response in a SOC environment.
+Phase 4: Specialization & Certification Prep (Weeks 37–52)
+Goal: Gain expertise and certifications.
+
+Week 37-40: Specialization Focus
+Choose a specialization:
+
+Penetration Testing
+Dive deeper into exploit development and advanced hacking techniques.
+Incident Response
+Master forensic analysis and threat hunting.
+Cloud Security
+Focus on securing multi-cloud environments.
+Week 41-48: Certification Preparation
+
+Focus on one or more of the following certifications:
+CompTIA Security+: General security concepts (good for beginners).
+CEH (Certified Ethical Hacker): Penetration testing basics.
+OSCP (Offensive Security Certified Professional): Advanced penetration testing (if prepared).
+CISSP (Certified Information Systems Security Professional): For senior-level security roles.
+Week 49-52: Capstone Project
+
+Simulate a real-world security scenario:
+Set up a vulnerable system.
+Perform penetration testing and exploitation.
+Propose and implement security measures.
